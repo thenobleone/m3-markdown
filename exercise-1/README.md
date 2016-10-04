@@ -7,6 +7,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 
-> "I used to think it was awful that life was so unfair. Then I thought, 'wouldn't it be much worse if life *were* fair, and all the terrible things that happen to us come because we *actually* deserve them?' So now I take great comfort in the general hostility and unfairness of the universe. "
+> "I used to think it was awful that life was so unfair. Then I thought, 'wouldn't it be much worse if life *were* fair', and all the terrible things that happen to us come because we *actually* deserve them?' So now I take great comfort in the general hostility and unfairness of the universe. "
 
  **Marcus Cole**, *Babylon 5:* A Late Delivery from Avalon (1996)
