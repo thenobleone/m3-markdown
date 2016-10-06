@@ -9,3 +9,14 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# touch
+```
+touch <filename>.<ext>
+```
+* Creates a new file
+  * When creating the file you must give it a name and state the file extension.
+  * An example of use is to run a program and direct any output into a file:
+      ```
+      cat file.txt > touch checkedFile.txt
+      ```
